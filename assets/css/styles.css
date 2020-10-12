@@ -57,7 +57,7 @@ nav.navbar.navbar-default{
 }
 
 .navbar-header a.navbar-brand img{
-  height: 30px;
+  height: 90px;
   margin-top: -4px;
 }
 
@@ -73,7 +73,7 @@ i.glyphicon.glyphicon-search{
 
 #background{
   margin-top:-120px;
-  background:url(../../assets/img/bg.jpg) no-repeat;
+  background:url(../../assets/img/05.jpg) no-repeat;
   background-size:cover;
   padding-top:111px;
   height:638px;
